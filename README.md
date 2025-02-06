@@ -1,1 +1,1 @@
-# Data-Scrapping3
+To get the useful information from the website "List of Countries in asia " by using it's link of the website and to make the dowmload of the gathered,dataframed output in the form of csvfile .By using the python libraries pandas,BeautifulSoup.
